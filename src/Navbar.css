@@ -1,0 +1,17 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  height: 80px;
+  z-index: 1;
+  transition: all 0.3s ease-in;
+}
+
+.nav__black {
+  background-color: #111;
+}
+
+.nav__logo {
+  color: rgb(210, 47, 39);
+}
